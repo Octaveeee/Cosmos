@@ -1,2 +1,3 @@
 # Cosmos
-OpenSource
+
+Cosmos is an open source project.
